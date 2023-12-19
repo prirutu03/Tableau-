@@ -1,4 +1,5 @@
 This serves as a showcase of practical exercises and visualizations created using Tableau. The repository contains the Superstore dataset file and various Tableau workbook sheets, each designed to explore different aspects of data visualization, analysis, and manipulation.
+To view these Tableau workbook in Tableau Public, click on the hypertext link.- https://public.tableau.com/app/profile/priyanka.wankhade
 
 Contents:
 
